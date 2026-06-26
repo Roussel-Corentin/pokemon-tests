@@ -56,6 +56,12 @@ pokemon-tests/
 
 ## Fonctionnalite actuelle
 
+### US 1 - Application des multiplicateurs de type
+
+- Super efficace : Multiplicateur x2 (ex: Eau contre Feu).
+- Pas très efficace : Multiplicateur x0.5 (ex: Plante contre Vol).
+- Immunité : Multiplicateur x0 (ex: Électrik contre Sol).
+
 ### US 2 - Calcul des PV restants et mise K.O.
 
 Regles implementees :
