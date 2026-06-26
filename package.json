@@ -1,0 +1,25 @@
+{
+  "name": "pokemon-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:cov": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roussel-Corentin/pokemon-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roussel-Corentin/pokemon-tests/issues"
+  },
+  "homepage": "https://github.com/Roussel-Corentin/pokemon-tests#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
