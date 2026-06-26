@@ -10,7 +10,7 @@ describe("US 2 - Calcul des PV restants et mise K.O.", () => {
 
     const resultat = appliquerDegats(defenseur, 45);
 
-    expect(resultat.x²).toBe(55);
+    expect(resultat.pv).toBe(55);
     expect(resultat.statut).toBe("Actif");
   });
 
